@@ -2,3 +2,4 @@ user:
   role: developer
 employee:
   name: ravi
+  salary: 20000
