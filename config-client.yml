@@ -1,4 +1,4 @@
 user:
   role: developer
-  salary: 40000
-  name:ravi
+employee:
+  name: ravi
